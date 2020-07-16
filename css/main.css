@@ -29,6 +29,7 @@ li.nav{
 }
 
 li a{
+  display block;
   color: white;
   text-align: center;
   padding: 15px;
@@ -174,3 +175,6 @@ img {
 #HumI{
     background-color: #dfdb33;
 }
+
+
+@font-face {font-family: "Nilland-Black"; src: url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.eot"); src: url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.woff") format("woff"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.svg#Nilland-Black") format("svg"); }
