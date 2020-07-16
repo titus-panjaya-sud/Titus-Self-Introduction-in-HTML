@@ -1,7 +1,8 @@
 @import url(//db.onlinewebfonts.com/c/0fdb2ac5f8663b2b8acb8dfd8b35db02?family=Nilland-Black);
 @import 'https://fonts.googleapis.com/css?family=Permanent+Marker';
 @import 'https://fonts.googleapis.com/css?family=Comfortaa';
-
+@import 'https://fonts.googleapis.com/css?family=Bree+Serif';
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
 
 a {
 text-decoration:}
@@ -13,9 +14,42 @@ none;
 }
 
 nav{
-  background-color: #520d20;
+  font-family: Nilland-Black;
+  font-size: 20px;
 }
 
+
+ul.bulletless{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #520d20;
+
+}
+
+li.nav{
+  float: left;
+}
+
+li a{
+  display block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #d336c4;
+}
+
+.active {
+    background-color: #4aea22;
+}
 
 ul.circle{
   list-style-type: circle;
@@ -52,3 +86,12 @@ h1
   h3
     { font-family: Permanent Marker;
     }
+
+  h4
+      { font-family: Permanent Marker;
+      }
+
+footer
+{
+  font-family: Bree Serif;
+}
