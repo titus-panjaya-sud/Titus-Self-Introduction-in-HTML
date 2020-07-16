@@ -29,7 +29,6 @@ li.nav{
 }
 
 li a{
-  display block;
   color: white;
   text-align: center;
   padding: 15px;
@@ -93,7 +92,7 @@ footer
 img {
   width: 100%;
   height: auto;
-  vertical-align
+  vertical-align;
 }
 
 #index
