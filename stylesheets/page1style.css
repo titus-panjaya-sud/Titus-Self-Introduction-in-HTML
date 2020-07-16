@@ -2,7 +2,32 @@
 
 body
 {
-  font-family: Helvetica Nenue, Helvetica, Arial, sans-serif;
+  font-family: Comfortaa;
   background-color: #6bcfd7;
   color: #2c251c;
+}
+
+#BasI{
+    background-color: #77ee4a;
+}
+
+#PerI{
+    background-color: #da5c50;
+}
+
+#AcaI{
+    background-color: #dfdb33;
+}
+
+#EduI{
+    background-color: #77ee4a;
+}
+
+#ComI{
+    background-color: #da5c50;
+}
+
+
+#HumI{
+    background-color: #dfdb33;
 }

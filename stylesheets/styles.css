@@ -1,4 +1,6 @@
 @import url(//db.onlinewebfonts.com/c/0fdb2ac5f8663b2b8acb8dfd8b35db02?family=Nilland-Black);
+@import 'https://fonts.googleapis.com/css?family=Permanent+Marker';
+@import 'https://fonts.googleapis.com/css?family=Comfortaa';
 
 
 a {
@@ -10,7 +12,22 @@ none;
 .thumbnail-title...
 }
 
+nav{
+  background-color: #520d20;
+}
 
+
+ul.circle{
+  list-style-type: circle;
+}
+
+ul.square{
+  list-style-type: square;
+}
+
+ol.alphabets{
+  list-style-type: lower-alpha;
+}
 
 
 h1
@@ -26,3 +43,12 @@ h1
     0 0 100px #0ff,
     0 0 150px #0ff;
   }
+
+  h2
+    { font-family: Nilland-Black;
+    }
+
+
+  h3
+    { font-family: Permanent Marker;
+    }

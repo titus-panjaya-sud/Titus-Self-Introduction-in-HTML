@@ -2,7 +2,20 @@
 
 body
 {
-  font-family: Helvetica Nenue, Helvetica, Arial, sans-serif;
+  font-family: Comfortaa;
   background-color: #ea7e5a;
   color: black;
+}
+
+#Rat{
+    background-color: #515c79;
+    color: #dee2b7;
+}
+
+#PIPE{
+    background-color: #86e233;
+}
+
+#Ref{
+    background-color: #1fd8de;
 }
