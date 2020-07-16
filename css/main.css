@@ -1,13 +1,13 @@
-@import url(//db.onlinewebfonts.com/c/0fdb2ac5f8663b2b8acb8dfd8b35db02?family=Nilland-Black);
 @import 'https://fonts.googleapis.com/css?family=Permanent+Marker';
 @import 'https://fonts.googleapis.com/css?family=Comfortaa';
 @import 'https://fonts.googleapis.com/css?family=Bree+Serif';
 @import 'https://fonts.googleapis.com/css?family=Montserrat';
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
 
 
 
 nav{
-  font-family: Nilland-Black;
+  font-family: "Rowdies", cursive;
   font-size: 20px;
 }
 
@@ -58,7 +58,7 @@ ol.alphabets{
 
 
 h1
-  { font-family: Nilland-Black;
+  { font-family: "Rowdies", cursive;
     color: #ee4a56;
     text-shadow:
     0 0 5px #fff,
@@ -72,7 +72,7 @@ h1
   }
 
   h2
-    { font-family: Nilland-Black;
+    { font-family: "Rowdies", cursive;
     }
 
 
@@ -175,6 +175,3 @@ img {
 #HumI{
     background-color: #dfdb33;
 }
-
-
-@font-face {font-family: "Nilland-Black"; src: url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.eot"); src: url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.woff") format("woff"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0fdb2ac5f8663b2b8acb8dfd8b35db02.svg#Nilland-Black") format("svg"); }
